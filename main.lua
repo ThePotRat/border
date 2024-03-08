@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ThePotRat/border/main/lib.lua"))()
 
 local Window = Library.CreateLib("FH99", "Sentinel")
 
