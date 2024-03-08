@@ -138,7 +138,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").Packages.Knit.Services.ShopService.RF.Shop:InvokeServer(unpack(args))
 
-      elseif currentOption == "gold" then
+      elseif currentOption == "flowers" then
 
         
 
