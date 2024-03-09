@@ -1,4 +1,4 @@
-while wait()do
+while wait() do
 local args = {
 
     [1] = "gunpowder",
@@ -10,7 +10,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").Packages.Knit.Services.ShopService.RF.Shop:InvokeServer(unpack(args))
-  wait(0.5)
+  wait(0.2)
 local args = {
 
     [1] = "gunpowder",
